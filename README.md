@@ -1,6 +1,6 @@
 # Hey there! I'm **Rupal Jha** 👋
 
-![Welcome GIF](https://media.giphy.com/media/fAnEC88LccN7aYy4Fx/giphy.gif)
+![Welcome GIF](https://thumbs.dreamstime.com/b/modern-cartoon-illustration-woman-writing-software-code-developing-game-mobile-app-night-student-studying-316974289.jpg)
 
 Welcome to my GitHub profile! I'm **Rupal Jha**, a Data Analyst with a passion for turning raw data into actionable insights. 🚀
 
@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm **Rupal Jha**, a Data Analyst with a passion f
 
 ### 🛠️ Technologies & Tools I Use:
 
-![SQL GIF](https://media.giphy.com/media/xT9DPEdyyzPpTcLePQ/giphy.gif)
+![SQL GIF](https://t3.ftcdn.net/jpg/07/59/45/12/360_F_759451246_OGyz5y2S57Gi0oBCEpnRHz2qm1Ot574U.jpg)
 - **SQL**: Querying databases and making sense of data.
 - **Python**: Writing scripts to automate and analyze data.
 - **Excel**: Organizing, calculating, and presenting data insights.
@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm **Rupal Jha**, a Data Analyst with a passion f
 ---
 ---
 
-![Thanks GIF](https://media.giphy.com/media/3o6ZtWbXo1azX7q2IC/giphy.gif)
+![Thanks GIF](https://media.istockphoto.com/id/1362879594/vector/thank-you-neon-sign-on-brick-wall-background.jpg?s=612x612&w=0&k=20&c=1VRRnssOBYxxqT-NXVZOYJVXqLK2ECiGzlWWsyO8-XQ=)
 
 Feel free to explore my repositories! 🚀
 ****
