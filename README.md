@@ -1,6 +1,6 @@
 # Hey there! I'm **Rupal Jha** 👋
 
-![Welcome GIF](https://thumbs.dreamstime.com/b/modern-cartoon-illustration-woman-writing-software-code-developing-game-mobile-app-night-student-studying-316974289.jpg)
+![Welcome GIF](https://t4.ftcdn.net/jpg/08/70/32/31/360_F_870323199_ajFBiDNHIlYPyy5Hdl0BOXuLFqLsirD6.jpg)
 
 Welcome to my GitHub profile! I'm **Rupal Jha**, a Data Analyst with a passion for turning raw data into actionable insights. 🚀
 
