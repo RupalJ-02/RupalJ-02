@@ -1,5 +1,4 @@
 # Hey there! I'm **Rupal Jha** 👋
----
 Welcome to my GitHub profile! I'm **Rupal Jha**, a Data Analyst. 🚀
 I love working with data, analyzing trends, and visualizing results that make a difference. 📈 
 
