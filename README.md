@@ -1,4 +1,5 @@
 # Hey there! I'm **Rupal Jha** 👋
+---
 
 Welcome to my GitHub profile! I'm **Rupal Jha**, a Data Analyst. 🚀
 I love working with data, analyzing trends, and visualizing results that make a difference. 📈 
@@ -6,13 +7,14 @@ I love working with data, analyzing trends, and visualizing results that make a 
 ---
 
 👨‍💻 Technical Skills & Expertise
+---
+
 I leverage a broad set of tools and technologies essential for data analysis and machine learning, enabling me to extract insights and deliver impactful results.
+
 ---
 Programming Languages & Technologies
 - **SQL**: Writing complex queries for efficient data extraction and analysis from relational databases.
-  
 - **Python**: Developing scalable data processing scripts and machine learning models using key libraries.
-  
 - **Pandas**: Data manipulation and cleaning.
 - **NumPy**: Numerical data handling and array operations.
 - **Matplotlib / Seaborn**: Data visualization for insights and patterns.
@@ -21,6 +23,7 @@ Programming Languages & Technologies
 - **TensorFlow**: Framework for creating and training deep learning models.
 - **OpenCV**: Computer vision tasks for image processing and analysis.
 - **Flask**: Creating web applications and APIs for deploying data models.
+---
 Data Analysis & Visualization
 - **Advanced Excel**: Mastering pivot tables, VLOOKUP, and complex formulas for data analysis and reporting.
 - **Power BI**: Designing interactive dashboards to visualize business data and track KPIs.
