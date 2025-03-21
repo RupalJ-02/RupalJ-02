@@ -23,7 +23,7 @@ Programming Languages & Technologies:
 - **Flask**: Creating web applications and APIs for deploying data models.
 ---
 Data Analysis & Visualization
-- **Advanced Excel**: Mastering pivot tables, VLOOKUP, and complex formulas for data analysis and reporting.
+- **Advanced Excel**: Mastering pivot tables, VLOOKUP and complex formulas for data analysis and reporting.
 - **Power BI**: Designing interactive dashboards to visualize business data and track KPIs.
 - **Tableau**: Creating intuitive and dynamic visualizations to communicate data insights effectively.
 - **Streamlit**: Building interactive web apps to visualize and deploy data models in real time.
