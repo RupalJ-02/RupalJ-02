@@ -5,9 +5,9 @@ I love working with data, analyzing trends, and visualizing results that make a 
 
 ---
 
-###👨‍💻 Technical Skills & Expertise
+👨‍💻 Technical Skills & Expertise
 I leverage a broad set of tools and technologies essential for data analysis and machine learning, enabling me to extract insights and deliver impactful results.
-
+---
 Programming Languages & Technologies
 - **SQL**: Writing complex queries for efficient data extraction and analysis from relational databases.
   
